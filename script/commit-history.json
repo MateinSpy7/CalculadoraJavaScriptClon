@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "d8b393e77768cacb01123f9d8c0269b5adf42b8d",
     "author": "Mateo Quintanilla",
     "commit": {
       "date": "2026-08-18T22:44:46.000Z",
       "message": "Primer commit: instalación de dependencias",
-      "url": "https://github.com/MateinSpy7/CalculadoraJavaScriptClon/commit/HEAD"
+      "url": "https://github.com/MateinSpy7/CalculadoraJavaScriptClon/commit/d8b393e77768cacb01123f9d8c0269b5adf42b8d"
     },
     "stats": {
       "total": 16,
       "additions": 15,
       "deletions": 1,
+      "date": "2026-08-18"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Mateo Quintanilla",
+    "commit": {
+      "date": "2026-08-18T22:54:19.000Z",
+      "message": "Multiplicacion agregada",
+      "url": "https://github.com/MateinSpy7/CalculadoraJavaScriptClon/commit/HEAD"
+    },
+    "stats": {
+      "total": 35,
+      "additions": 33,
+      "deletions": 2,
       "date": "2026-08-18"
     },
     "coverage": 100,
